@@ -26,10 +26,15 @@ Fully responsive design
 
 
 🛠️ **Built Using**
+
 Technology	Purpose
+
 HTML5	Page structure
+
 CSS3	Styling, layout & visual effects
+
 (No JavaScript used)	Pure frontend fundamentals
+
 
 
 
